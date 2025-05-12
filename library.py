@@ -14,6 +14,7 @@ def addmember():
  c. execute( sql,data)
  con.commit()
  print (" =============")
+ print("============")
  print("MEMBER ADDED SUCCESSFULLY")
  anykey=input("Press and Enter anykey to return to menu:")
  
