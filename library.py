@@ -15,6 +15,7 @@ def addmember():
  con.commit()
  print (" =============")
  print("============")
+ print("===========")
  print("MEMBER ADDED SUCCESSFULLY")
  anykey=input("Press and Enter anykey to return to menu:")
  
